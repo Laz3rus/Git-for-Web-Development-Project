@@ -1,0 +1,83 @@
+
+
+Completed codepen: https://codepen.io/Dom3nic/pen/GRZaNye?editors=1100
+
+
+Answers:
+
+
+
+1. is the right way to use in HTML to reinforce the meaning of a content in the webpage.
+
+2. Hypertext Markup Language is used to create electronic documents that are displayed on the world wide web.
+
+3. Attributes define addtional characteristics to an element by creating tags like <h1>, <p>, and <table>.
+
+4. h1 tags is used for indications for titles of a webpage, introducing to the overall of the webpage, the recommended number uses for this tag is basically 1-2 times.
+
+5. <a>, <nav>
+
+6. <!DOCTYPE html>
+
+7. An Identifier for that certain tag to edit later in css
+
+8. names specified for that certain tag
+
+9. one time. unless its a collection for the same type of edits
+
+10. An Identifier for that certain group of tag to edit later in css
+
+11. it ranges specifies based one font, to background and to borders and border styles.
+
+12. As many as you can 
+
+13. by using a tag containing "_blank"
+
+14. it specifies an alternate text for an image
+
+15. by using the css file and nameing the id with a "." infront of it
+
+16. section defines section in a document like chapters, headers, and footers,div defines a division or a section in an HTML document
+
+17. is a language for describing the presentation of a webpage
+
+18. .h2{}
+
+19. ID can be used to identify one element, class can be used to identify more than one
+
+20. write a (.) followed by the name of the class
+
+21. .human{
+
+22. parent child selector selects all elements that are a direct child of the specified element
+
+23. 
+
+24. is a selector that selects elements that are in a specific state
+
+25. 
+
+26. 
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+
+
